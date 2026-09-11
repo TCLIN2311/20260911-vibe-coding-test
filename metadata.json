@@ -1,0 +1,6 @@
+{
+  "name": "PMS 專案管理與工程 RFI 追蹤系統",
+  "description": "整合視覺化看板工作流、工程需求待釐清 (RFI) 追蹤與時程甘特圖 (Gantt Chart) 的專案管理系統，具備關鍵里程碑、相依關聯線、RBAC 權限管理與稽核紀錄。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
